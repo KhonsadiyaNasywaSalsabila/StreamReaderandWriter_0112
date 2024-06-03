@@ -10,6 +10,7 @@ int main()
 {
     string baris;
 
+    ofstream outfile;
 
 }
 
