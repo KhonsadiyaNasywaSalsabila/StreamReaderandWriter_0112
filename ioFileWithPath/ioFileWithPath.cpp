@@ -12,6 +12,8 @@ int main()
 	cout << "Masukkan Nama File : ";
 	cin >> NamaFile;
 
+	ofstream outfile;
+
 
 }
 
